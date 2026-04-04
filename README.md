@@ -3,19 +3,19 @@
 ### Building Responsive UI & Powerful Backend Systems
 
 
-- 🔭 I'm currently working on **Chillout Vacation — a Full Stack Travel Planning Web Application.**
+- I'm currently working on **a Full Stack Web Application.**
 
-- 🌱 I'm currently learning **APIs, Backend & Databases.**
+- I'm currently learning **APIs, Backend & Databases.**
 
-- 👯 I'm looking to collaborate on **Real-World Web Applications and Startup Ideas.**
+- I'm looking to collaborate on **Real-World Web Applications and Startup Ideas.**
 
-- 🤝 I'm looking for help with **Backend Development, APIs, and Database Design,**
+- I'm looking for help with **Backend Development, APIs, and Database Design,**
 
-- 💬 Ask me about **Full Stack Development, UI, and Web Projects.**
+- Ask me about **Full Stack Development, UI, and Web Projects.**
 
-- 📫 How to reach me **tempselvakumar@gmail.com**
+- How to reach me **tempselvakumar@gmail.com**
 
-- ⚡ Fun fact **I Love Turning Ideas into Real-World Projects.**
+- Fun fact **I Love Turning Ideas into Real-World Projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
